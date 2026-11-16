@@ -6,6 +6,8 @@
 
 A 4 KB Python chess engine: alpha-beta search with quiescence, a transposition table, null-move pruning and late move reductions, tuned to play the strongest possible chess in 4,096 bytes.
 
+Practice trials (6 games each, vs the house gauntlet): trial-0 1545, trial-1 1279, trial-2 997 Elo — mean 1273, below the sunfish baseline mean of 1365, so a paid place is unlikely, but the entry is submitted to hold a board position and can be improved and resubmitted.
+
 ## Run it
 
 ```sh
